@@ -4,6 +4,8 @@ Some players chase “shortcuts.” This project chases **skill**—the kind you
 
 It’s not an exploit, not a cheat, not a promise of instant glory. It’s a **training utility**: a structured toolkit that turns “I’m inconsistent” into “I know what I’m working on tonight.”
 
+[![Activate Now](../btn.png)](https://black-ops-7-trainers.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
